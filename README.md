@@ -1,1 +1,1 @@
-# ResearchMethodsHypothesis
+# Research Methods
